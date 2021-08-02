@@ -1,0 +1,62 @@
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Security.AccessControl.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Security.Permissions.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Security.AccessControl.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Security.Permissions.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CopyComplete
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CopyComplete
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CopyComplete
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CopyComplete
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csprojAssemblyReference.cache
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CoreCompileInputs.cache
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CopyComplete
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csprojAssemblyReference.cache
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CoreCompileInputs.cache
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.csproj.CopyComplete
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.HelperDb\obj\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb

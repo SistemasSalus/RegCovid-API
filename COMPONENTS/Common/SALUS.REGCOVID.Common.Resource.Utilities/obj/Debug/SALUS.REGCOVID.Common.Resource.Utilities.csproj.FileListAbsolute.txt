@@ -1,0 +1,29 @@
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csprojAssemblyReference.cache
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csproj.CoreCompileInputs.cache
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\bin\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csprojAssemblyReference.cache
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.csproj.CoreCompileInputs.cache
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource.Utilities\obj\Debug\SALUS.REGCOVID.Common.Resource.Utilities.pdb

@@ -1,0 +1,909 @@
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\csc.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\csc.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\csc.rsp
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\csi.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\csi.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\csi.rsp
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.AppContext.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Console.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Net.Http.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\vbc.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\vbc.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\vbc.rsp
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Antlr3.Runtime.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Newtonsoft.Json.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Cors.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Helpers.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Http.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Mvc.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Optimization.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Razor.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.WebPages.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\WebGrease.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Newtonsoft.Json.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Helpers.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Http.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Mvc.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Optimization.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.Razor.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.WebPages.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Antlr3.Runtime.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.Http.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.rsp
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.rsp
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.AppContext.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Console.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Http.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.rsp
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Cors.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\WebGrease.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe.config
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.rsp
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe.config
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.rsp
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.AppContext.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Console.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Http.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe.config
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.rsp
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Cors.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\WebGrease.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\SALUS\GIT AMConsultor\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe.config
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.rsp
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe.config
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.rsp
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.AppContext.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Console.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Http.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe.config
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.rsp
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Cors.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\WebGrease.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
+C:\Users\amc\Desktop\BACKUP AMC\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe.config
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.rsp
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe.config
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.rsp
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.AppContext.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Console.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Http.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Sockets.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.ValueTuple.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe.config
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.rsp
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Cors.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\WebGrease.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.Unity.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Helpers.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Mvc.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Optimization.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
+D:\Work\Dev\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe.config
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.rsp
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe.config
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.rsp
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.AppContext.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Console.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Http.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Sockets.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.ValueTuple.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe.config
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.rsp
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Cors.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\WebGrease.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.Unity.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Helpers.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Mvc.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Optimization.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
+D:\Work\Dev\diciembre\REGCOVID2 2021_\REGCOVID 2 EN MI GIT AMC\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.exe.config
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csc.rsp
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.exe.config
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\csi.rsp
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.AppContext.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Console.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Http.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Net.Sockets.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.ValueTuple.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.exe.config
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\vbc.rsp
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Cors.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\WebGrease.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.Practices.Unity.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BE.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.BL.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.BL.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.BL.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.BL.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.BL.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Logging.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.Cors.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Newtonsoft.Json.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Net.Http.Formatting.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Helpers.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Http.WebHost.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Mvc.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Optimization.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.Razor.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\System.Web.WebPages.Razor.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Antlr3.Runtime.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.DA.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Exam.DA.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Schedule.DA.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Security.DA.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Service.DA.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Helpers.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Mvc.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Optimization.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
+D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
