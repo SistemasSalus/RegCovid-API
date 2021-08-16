@@ -22,5 +22,19 @@ namespace SALUS.REGCOVID.Common.BL
             return _precioDA.GetPrecios();
         }
 
+        public bool CreatePrecios(Precio precio)
+        {
+            return _precioDA.CreatePrecios(precio);
+        }
+
+        public bool UpdatePrecios(Precio precio)
+        {
+            return _precioDA.UpdatePrecios(precio);
+        }
+
+        public bool DeletePrecios(int id)
+        {
+            return _precioDA.DeletePrecios(id);
+        }
     }
 }

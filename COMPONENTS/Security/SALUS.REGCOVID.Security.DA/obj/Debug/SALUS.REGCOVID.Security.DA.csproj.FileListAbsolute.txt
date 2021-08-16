@@ -86,3 +86,14 @@ D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\C
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.csproj.CopyComplete
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.dll
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\bin\Debug\SALUS.REGCOVID.Security.DA.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\bin\Debug\SALUS.REGCOVID.Security.DA.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\bin\Debug\SALUS.REGCOVID.Common.BE.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\bin\Debug\SALUS.REGCOVID.Common.BE.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.csprojAssemblyReference.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.csproj.CoreCompileInputs.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.csproj.CopyComplete
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Security\SALUS.REGCOVID.Security.DA\obj\Debug\SALUS.REGCOVID.Security.DA.pdb

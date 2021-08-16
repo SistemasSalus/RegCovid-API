@@ -110,3 +110,19 @@ D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\C
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.csproj.CopyComplete
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.dll
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.csprojAssemblyReference.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.csproj.CoreCompileInputs.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.BL.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.BL.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.BE.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.DA.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.BE.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.DA.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.csproj.CopyComplete
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.BL\obj\Debug\SALUS.REGCOVID.Common.BL.pdb

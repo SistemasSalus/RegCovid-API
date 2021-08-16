@@ -60,3 +60,17 @@ D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\C
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.csproj.CopyComplete
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.dll
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\SALUS.REGCOVID.Service.DA.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\SALUS.REGCOVID.Service.DA.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\SALUS.REGCOVID.Common.BE.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\Microsoft.Practices.Unity.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\SALUS.REGCOVID.Common.BE.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.csprojAssemblyReference.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.csproj.CoreCompileInputs.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.csproj.CopyComplete
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Service\SALUS.REGCOVID.Service.DA\obj\Debug\SALUS.REGCOVID.Service.DA.pdb

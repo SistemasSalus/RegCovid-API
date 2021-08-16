@@ -21,5 +21,16 @@ namespace SALUS.REGCOVID.API.Controllers
 
             return Ok(empresasPrincipales);
         }
+
+        [HttpGet]
+        [Route("Empresas")]
+        public IHttpActionResult GetEmpresas()
+        {
+            var empresaPrincipalBL = new EmpresaPrincipalBL();
+
+            var empresasPrincipales = empresaPrincipalBL.GetEmpresas();
+
+            return Ok(empresasPrincipales);
+        }
     }
 }

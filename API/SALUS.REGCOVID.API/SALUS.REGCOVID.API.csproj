@@ -182,6 +182,7 @@
     <Compile Include="Controllers\LocationsController.cs" />
     <Compile Include="Controllers\NodesRegcovidController.cs" />
     <Compile Include="Controllers\OthersMedicalCentersController.cs" />
+    <Compile Include="Controllers\PrecioController.cs" />
     <Compile Include="Controllers\ScheduleWorkerRegcovidController.cs" />
     <Compile Include="Controllers\ServiceController.cs" />
     <Compile Include="Controllers\SystemParameterController.cs" />
@@ -248,6 +249,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\EmpresaPrincipal\" />
+    <Folder Include="Views\Precio\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -307,6 +309,9 @@
       <Project>{330E6F24-72EE-4747-AA03-7D29C8521312}</Project>
       <Name>SALUS.REGCOVID.Service.BL</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

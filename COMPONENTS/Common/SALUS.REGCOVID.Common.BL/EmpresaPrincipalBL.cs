@@ -21,5 +21,9 @@ namespace SALUS.REGCOVID.Common.BL
         {
             return _EmpresaPrincipalDA.GetEmpresasPrincipales(userId);
         }
+        public List<EmpresaPrincipal> GetEmpresas()
+        {
+            return _EmpresaPrincipalDA.GetEmpresas();
+        }
     }
 }

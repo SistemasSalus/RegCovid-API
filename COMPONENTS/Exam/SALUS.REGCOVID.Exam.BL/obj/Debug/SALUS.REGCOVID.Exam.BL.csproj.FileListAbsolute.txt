@@ -88,3 +88,21 @@ D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\C
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.csproj.CopyComplete
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.dll
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Exam.BL.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Exam.BL.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Common.BE.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Exam.DA.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Common.BE.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Exam.DA.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\bin\Debug\SALUS.REGCOVID.Common.Resource.HelperDb.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.csprojAssemblyReference.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.csproj.CoreCompileInputs.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.csproj.CopyComplete
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Exam\SALUS.REGCOVID.Exam.BL\obj\Debug\SALUS.REGCOVID.Exam.BL.pdb

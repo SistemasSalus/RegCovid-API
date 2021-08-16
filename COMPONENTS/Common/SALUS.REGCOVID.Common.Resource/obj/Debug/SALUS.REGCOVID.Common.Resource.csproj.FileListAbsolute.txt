@@ -31,3 +31,9 @@ D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\C
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\obj\Debug\SALUS.REGCOVID.Common.Resource.csproj.CoreCompileInputs.cache
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\obj\Debug\SALUS.REGCOVID.Common.Resource.dll
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\obj\Debug\SALUS.REGCOVID.Common.Resource.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\bin\Debug\SALUS.REGCOVID.Common.Resource.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\bin\Debug\SALUS.REGCOVID.Common.Resource.pdb
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\obj\Debug\SALUS.REGCOVID.Common.Resource.csprojAssemblyReference.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\obj\Debug\SALUS.REGCOVID.Common.Resource.csproj.CoreCompileInputs.cache
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\obj\Debug\SALUS.REGCOVID.Common.Resource.dll
+D:\GitHub\RegCovid-BackEnd\COMPONENTS\Common\SALUS.REGCOVID.Common.Resource\obj\Debug\SALUS.REGCOVID.Common.Resource.pdb

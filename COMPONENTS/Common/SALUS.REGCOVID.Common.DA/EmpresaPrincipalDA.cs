@@ -39,5 +39,21 @@ namespace SALUS.REGCOVID.Common.DA
             return oList.ToList();
 
         }
+        public List<EmpresaPrincipal> GetEmpresas()
+        {
+            List<EmpresaPrincipal> oList = new List<EmpresaPrincipal>();
+            string commandText = "[dbo].[REGCOVID_Get_Organization]";
+            using (DbCommand cmd = _enterpriseLibDb.GetStoredProcCommand(commandText))
+            {
+
+                using (IDataReader drReader = _enterpriseLibDb.ExecuteReader(cmd))
+                {
+                    oList = new Mapper().Map<EmpresaPrincipal>(((RefCountingDataReader)drReader).InnerReader as SqlDataReader);
+                }
+            }
+
+            return oList.ToList();
+
+        }
     }
 }

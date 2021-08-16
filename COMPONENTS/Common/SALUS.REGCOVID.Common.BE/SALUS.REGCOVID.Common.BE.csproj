@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="EmpresaEmpleadora.cs" />
     <Compile Include="EmpresaPrincipal.cs" />
+    <Compile Include="LoadDataTables.cs" />
     <Compile Include="Precio.cs" />
     <Compile Include="WorkerData.cs" />
     <Compile Include="LaboratoryRequest.cs" />
