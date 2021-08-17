@@ -907,8 +907,6 @@ D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\A
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
 D:\Work\Dev\RegCovid\18032021\REGCOVID18032021V2\REGCOVID 2 API\SALUS.REGCOVID\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb
-D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
-D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll.config
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.dll
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\bin\SALUS.REGCOVID.API.pdb
@@ -1039,6 +1037,8 @@ D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\bin\es\System.Web.Razor.resour
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.resources.dll
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Deployment.resources.dll
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csprojAssemblyReference.cache
+D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CoreCompileInputs.cache
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.csproj.CopyComplete
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.dll
 D:\GitHub\RegCovid-BackEnd\API\SALUS.REGCOVID.API\obj\Debug\SALUS.REGCOVID.API.pdb

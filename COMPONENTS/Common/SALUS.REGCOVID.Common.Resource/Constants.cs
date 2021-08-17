@@ -104,6 +104,50 @@ namespace SALUS.REGCOVID.Common.Resource
         public static string ANTIGENO_PROCEDIMIENTO_A_SEGUIR_ID = "N006-MF000000266";
         public static string ANTIGENO_OBSERVACION_ID = "N006-MF000000267";
 
+        public static string MOLECULAR_ID = "N003-ME000000068";
+        public static string MOLECULAR_DOMICILIO_ID = "N003-MF000000270";
+        public static string MOLECULAR_GEOLOCALIZACION_ID = "N003-MF000000271";
+        public static string MOLECULAR_PROFESION_ID = "N003-MF000000272";
+        public static string MOLECULAR_ES_PERSONAL_SALUD_ID = "N003-MF000000273";
+        public static string MOLECULAR_TIENE_SINTOMAS_ID = "N003-MF000000274";
+        public static string MOLECULAR_INICIO_SINTOMAS_ID = "N003-MF000000275";
+        public static string MOLECULAR_CEFALEA_ID = "N003-MF000000276";
+        public static string MOLECULAR_CONGESTION_NASAL_ID = "N003-MF000000277";
+        public static string MOLECULAR_DIARREA_ID = "N003-MF000000278";
+        public static string MOLECULAR_DIFIC_RESPIRA_ID = "N003-MF000000279";
+        public static string MOLECULAR_DOLOR_ID = "N003-MF000000280";
+        public static string MOLECULAR_DOLOR_GARGANTA_ID = "N003-MF000000281";
+        public static string MOLECULAR_FIEBRE_ESCALOFRIO_ID = "N003-MF000000283";
+        public static string MOLECULAR_IRRITABILIDAD_ID = "N003-MF000000284";
+        public static string MOLECULAR_MALESTAR_GENERAL_ID = "N003-MF000000285";
+        public static string MOLECULAR_NAUSEAS_ID = "N003-MF000000286";
+        public static string MOLECULAR_TOS_ID = "N003-MF000000287";
+        public static string MOLECULAR_ABDOMINAL_ID = "N003-MF000000288";
+        public static string MOLECULAR_ARTICULACIONES_ID = "N003-MF000000289";
+        public static string MOLECULAR_MUSCULAR_ID = "N003-MF000000290";
+        public static string MOLECULAR_PECHO_ID = "N003-MF000000291";
+        public static string MOLECULAR_OTROS_SINTOMAS_ID = "N003-MF000000292";
+        public static string MOLECULAR_CLASIFICACION_CLINICA_ID = "N003-MF000000293";
+        public static string MOLECULAR_FECHA_EJECUCION_ID = "N003-MF000000294";
+        public static string MOLECULAR_PROCEDENCIA_SOLICITUD_ID = "N003-MF000000295";
+        public static string MOLECULAR_RES_1_PRUEBA_ID = "N003-MF000000296";
+        public static string MOLECULAR_RES_2_PRUEBA_ID = "N003-MF000000297";
+        public static string MOLECULAR_ASMA_ID = "N003-MF000000298";
+        public static string MOLECULAR_CANCER_ID = "N003-MF000000299";
+        public static string MOLECULAR_DIABETES_ID = "N003-MF000000300";
+        public static string MOLECULAR_EMBARAZO_ID = "N003-MF000000301";
+        public static string MOLECULAR_ENF_CARDIO_ID = "N003-MF000000302";
+        public static string MOLECULAR_INMUNOSUPRESOR_ID = "N003-MF000000303";
+        public static string MOLECULAR_ENF_PULMONAR_ID = "N003-MF000000304";
+        public static string MOLECULAR_HIPERTENCION_ARTERIAL_ID = "N003-MF000000305";
+        public static string MOLECULAR_INSUFICIENCIA_RENAL_ID = "N003-MF000000306";
+        public static string MOLECULAR_MAYOR_60_ID = "N003-MF000000307";
+        public static string MOLECULAR_OBESIDAD_ID = "N003-MF000000308";
+        public static string MOLECULAR_PERSONAL_SALUD_ID = "N003-MF000000309";
+        public static string MOLECULAR_CONTINUIDAD_DE_LA_ATENCION_ID = "N003-MF000000310";
+        public static string MOLECULAR_PROCEDIMIENTO_A_SEGUIR_ID = "N003-MF000000311";
+        public static string MOLECULAR_OBSERVACION_ID = "N003-MF000000312";
+
         #endregion
     }
 }
