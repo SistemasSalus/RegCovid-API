@@ -68,9 +68,7 @@ namespace SALUS.REGCOVID.Exam.BL
                         oUpdateValuesRequest.Value1 = listValues.Find(p => p.ComponentFieldId == value.ComponentFieldId).Value1;
                         oUpdateValuesRequest.UpdateUserId = 11;
                         _examDA.UpdateValues(oUpdateValuesRequest);
-                    }                    
-
-                    
+                    }
                 }
             }
 
@@ -90,7 +88,7 @@ namespace SALUS.REGCOVID.Exam.BL
 
                 return day + "-" + month + "-" + year;
             }
-            return "";           
+            return "";
         }
 
         public bool SaveLaboratory(LaboratoryRequest oLaboratoryRequest)
